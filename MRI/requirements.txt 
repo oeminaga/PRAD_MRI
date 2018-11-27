@@ -1,0 +1,14 @@
+numpy
+matplotlib
+scikit-image
+cv2
+tensorflow
+keras
+scipy
+pylab
+SimpleITK
+PIL
+sklearn
+pickle
+sklearn
+progressbar
